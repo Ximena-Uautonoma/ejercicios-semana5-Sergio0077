@@ -5,6 +5,7 @@ Un sistema de climatización clasifica:
 "Calurosa": más de 25
 Solicita la temperatura e indica la clasificación correspondiente.
 '''
+temperatura 
 
 
 
